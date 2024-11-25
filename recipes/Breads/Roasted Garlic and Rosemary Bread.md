@@ -3,19 +3,19 @@
 ## Ingredients
 
 ### Roasted Garlic
-+ 2 heads of Garlic
-+ 2 teaspoons Olive Oil
++ 1 head of Garlic
++ 1 teaspoon Olive Oil
 + salt to taste
 
 ### Bread
-+ 4 1/2 teaspoons active dry Yeast
-+ 2 teaspoons Honey or Sugar
-+ 2 1/2 cups warm water (~100° fahrenheit)
-+ 1 tablespoon Kosher Salt
-+ 4 tablespoons fresh Rosemary
-+ 16-20 roasted garlic cloves, roughly chopped
-+ 6 cups (946g) All Purpose Flour, plus extra for dusting 
-+ 2 tablespoons Olive Oil
++ 2 1/4 teaspoons active dry Yeast
++ 1 teaspoon Honey or Sugar
++ 1 1/4 cups warm water (~100° fahrenheit)
++ 1 1/2 teaspoons Kosher Salt
++ 2 tablespoons fresh Rosemary
++ 8-10 roasted garlic cloves, roughly chopped
++ 3 cups (473g) All Purpose Flour, plus extra for dusting 
++ 1 tablespoons Olive Oil
 
 ## Instructions 
 
@@ -36,7 +36,7 @@
 #### Shape the Dough and Final Rise
 + When the dough has doubled in size, lightly flour a large cutting board.
 + Tip the dough out of the bowl and onto the cutting board. **Do not punch the dough down**! We need to preserve all those nice air bubbles.
-+ Pull each corner of the dough into the center of the loaf one at a time as if you're folding an enevelope. Repeat this process 4-5 times until the dough feels relatively stiff, then flip the dough over and lightly twist while putting it towards you across the cutting board until you have a nice round loaf.
++ Pull each corner of the dough into the center of the loaf one at a time as if you're folding an enevelope. Repeat this process 4-5 times until the dough feels relatively stiff, then flip the dough over and lightly twist while pulling it towards you across the cutting board until you have a nice round loaf.
 + Flour a proofing basket or a small mixing bowland place your loaf into it, seam side down. Cover with a clean tea towel and let rise for 30 minutes.
 
 #### Heat the Oven
@@ -54,5 +54,5 @@
 
 ## Notes
 + Use parchment paper to make it easier getting the loaf into or out of the pot.
-+ If doubling the recipe leave in for an extra 5-10 minutes covered, and an extra 5 uncovered.
++ If doubling the recipe leave in for an extra 5-10 minutes covered, and an extra 5 uncovered. (Ingredients listed above are already doubled from original recipe)
 + Can use 2 Tablespoons of dried Rosemary in place of fresh.

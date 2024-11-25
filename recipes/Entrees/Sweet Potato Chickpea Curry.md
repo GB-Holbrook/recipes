@@ -1,5 +1,5 @@
 # Sweet Potato Chickpea Curry
-## INGREDIENTS
+## Ingredients
 - 1 lb potatoes
 - 1 lb sweet potatoes
 - 1 tsp mustard seeds
@@ -14,7 +14,7 @@
 - 400 g can of chickpeas
 - 2 tbsp coriander leaf
 
-## INSTRUCTIONS
+## Instructions
 
 1. Peel and chop the potatoes into cubes.
 2. Heat 1tbsp of vegetable oil in a large pan and add in the mustard seeds. When they begin to pop, the oil is hot enough, add in the rest of the spices and cook for 1 minute.
@@ -24,6 +24,6 @@
 6. Cook uncovered for a further 5 to 10 minutes.
 7. Serve with naan bread and rice.
 
-## NOTES
+## Notes
 
 -  

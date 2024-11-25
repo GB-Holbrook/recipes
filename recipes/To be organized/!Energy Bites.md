@@ -3,12 +3,12 @@
 ## Ingredients
 
 - 2 cups oatmeal
-1 cup peanut butter
-2/3 cup honey
-2 cup coconut, wheat germ, sesame seeds or mixture of all 3 (can sub oatmeal or protein powder)
-1 cup ground flaxseed
-1 cup mini chocolate chips
-2 tsp vanilla
+- 1 cup peanut butter
+- 2/3 cup honey
+- 2 cup coconut, wheat germ, sesame seeds or mixture of all 3 (can sub oatmeal or protein powder)
+- 1 cup ground flaxseed
+- 1 cup mini chocolate chips
+- 2 tsp vanilla
 
 ## Instructions
 

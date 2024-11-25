@@ -1,4 +1,4 @@
-# Instant Pot Greek Yogurt
+# Greek Yogurt (instant pot)
 
 ## Ingredients
 

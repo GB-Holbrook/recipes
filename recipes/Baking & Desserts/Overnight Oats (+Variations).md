@@ -2,7 +2,7 @@
 
 ## Ingredients
 
-- 1/3 cup plain yogurt
+- 1/3 cup plain yogurt (81g)
 - 3/4 cup premier protein (any flavour)
 - 1/2 cup oats (quick)
 - 1/2 tsp vanilla extract (or other extract)

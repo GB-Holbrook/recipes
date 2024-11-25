@@ -6,7 +6,7 @@
 - 1 can of sweetened condensed milk
 - 2 cups graham cracker crumbs
 - 2 cups coconut
-- 6 aero bars
+- 8 aero bars
 
 ## Instructions
 

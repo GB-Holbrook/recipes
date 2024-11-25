@@ -14,4 +14,4 @@
 3. Flatten pieces of bread with a rolling pin
 4. Spread cream cheese on bread and roll them up
 5. Cut in half and roll bacon around bread roll
-6. Place on line tray and bake until bacon is cooked# Bacon Wraps
+6. Place on line tray and bake until bacon is cooked

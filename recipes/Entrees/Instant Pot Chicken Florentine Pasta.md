@@ -16,7 +16,7 @@
 
 ## Instructions
 
-1. 1Turn Instant Pot to the Sauté setting. When the display says hot, add in the butter and swirl it around to melt.
+1. Turn Instant Pot to the Sauté setting. When the display says hot, add in the butter and swirl it around to melt.
 2. Add in the onion and chicken, sprinkle it with salt, pepper and italian seasoning. Stir often until onions are soft, about 4-5 minutes.
 3. Add in garlic and sauté for 20 seconds.
 4. Pour in the chicken broth and scrape the bottom of the pot. Add in the pasta and press it down so it's covered by liquid as much as possible. Add in the frozen spinach.
