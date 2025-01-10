@@ -54,5 +54,5 @@
 
 ## Notes
 + Use parchment paper to make it easier getting the loaf into or out of the pot.
-+ If doubling the recipe leave in for an extra 5-10 minutes covered, and an extra 5 uncovered. (Ingredients listed above are already doubled from original recipe)
++ If doubling the recipe leave in for an extra 5-10 minutes covered, and an extra 5 uncovered.
 + Can use 2 Tablespoons of dried Rosemary in place of fresh.
